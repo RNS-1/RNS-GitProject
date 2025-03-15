@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RNS-Search/static/css/main.63659ecc.css",
+    "main.js": "/RNS-Search/static/js/main.a3f1cd55.js",
+    "static/js/453.f430898a.chunk.js": "/RNS-Search/static/js/453.f430898a.chunk.js",
+    "index.html": "/RNS-Search/index.html",
+    "main.63659ecc.css.map": "/RNS-Search/static/css/main.63659ecc.css.map",
+    "main.a3f1cd55.js.map": "/RNS-Search/static/js/main.a3f1cd55.js.map",
+    "453.f430898a.chunk.js.map": "/RNS-Search/static/js/453.f430898a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63659ecc.css",
+    "static/js/main.a3f1cd55.js"
+  ]
+}
