@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/RNS-Search/static/css/main.63659ecc.css",
-    "main.js": "/RNS-Search/static/js/main.a3f1cd55.js",
-    "static/js/453.f430898a.chunk.js": "/RNS-Search/static/js/453.f430898a.chunk.js",
-    "index.html": "/RNS-Search/index.html",
-    "main.63659ecc.css.map": "/RNS-Search/static/css/main.63659ecc.css.map",
-    "main.a3f1cd55.js.map": "/RNS-Search/static/js/main.a3f1cd55.js.map",
-    "453.f430898a.chunk.js.map": "/RNS-Search/static/js/453.f430898a.chunk.js.map"
+    "main.css": "/RNS-GitProject/static/css/main.2f8cd3e4.css",
+    "main.js": "/RNS-GitProject/static/js/main.59ed135f.js",
+    "static/js/453.8a29ac34.chunk.js": "/RNS-GitProject/static/js/453.8a29ac34.chunk.js",
+    "index.html": "/RNS-GitProject/index.html",
+    "main.2f8cd3e4.css.map": "/RNS-GitProject/static/css/main.2f8cd3e4.css.map",
+    "main.59ed135f.js.map": "/RNS-GitProject/static/js/main.59ed135f.js.map",
+    "453.8a29ac34.chunk.js.map": "/RNS-GitProject/static/js/453.8a29ac34.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.63659ecc.css",
-    "static/js/main.a3f1cd55.js"
+    "static/css/main.2f8cd3e4.css",
+    "static/js/main.59ed135f.js"
   ]
 }
